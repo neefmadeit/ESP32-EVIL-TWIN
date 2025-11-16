@@ -149,7 +149,8 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 2. Open the Arduino IDE Software
 3. Clone the Repository
 4. Open the `esp32_deauth_attack.ino` file in your Arduino IDE
-5. Upload the Code to ESP32 
+5. Upload the Code to ESP32
+6. Connected to the WiFi "WiPhi_34732" and use the password "d347h320"
 
 ## Problems / Solutions 
 ## Final Report
