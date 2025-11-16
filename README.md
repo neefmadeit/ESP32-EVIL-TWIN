@@ -147,7 +147,9 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ## Steps I followed
 1. Connect the ESP32-CAM to computer
 2. Open the Arduino IDE Software
-3. 
- 
+3. Clone the Repository
+4. Open the `esp32_deauth_attack.ino` file in your Arduino IDE
+5. Upload the Code to ESP32 
+
 ## Problems / Solutions 
 ## Final Report
