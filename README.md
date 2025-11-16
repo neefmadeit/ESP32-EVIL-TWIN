@@ -142,8 +142,8 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ---
 
 ### Aneef Sheriff NOTES FOR CSN150
-Equipment Used: ESP32-CAM
-Tools used: Arduino
-Steps I Followed:
-Problems / Solutions: 
-Final Report:
+- Equipment Used: ESP32-CAM
+- Tools used: Arduino
+- Steps I Followed:
+- Problems / Solutions: 
+- Final Report:
