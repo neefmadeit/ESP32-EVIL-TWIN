@@ -142,8 +142,8 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ---
 
 ### Aneef Sheriff NOTES FOR CSN150
-- Equipment Used: ESP32-CAM
-- Tools used: Arduino
+## Equipment Used: ESP32-CAM
+## Tools used: Arduino
 ## Steps I followed
 1. Connect the ESP32-CAM to computer
 2. Open the Arduino IDE Software
@@ -158,5 +158,5 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 11. Connect to the access point
 12. Open your web browser and type the IP address 192.168.4.1
 13. View the video stream
-- Problems / Solutions: 
-- Final Report:
+## Problems / Solutions: 
+## Final Report:
