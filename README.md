@@ -154,9 +154,10 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 7. Select the network you want to run the attack on
 8. Run the duauthentication
 9. Start the evil twin
-10. Collect the credentials in Arduino IDE
+10. Connect to the evil twin
+11. Collect the credentials in Arduino IDE
 
 ## Problems / Solutions 
 Look for the Wi-Fi you are suppose to connect to under viod.setup in the code for Arduino.
 ## Final Report
-The attack forces users off their legitimate network by sending deauthentication packets and lures them into connecting to a fake access point where a captive portal captures their WiFi credentials.
+The attack forces users off their legitimate network by sending deauthentication packets and lures them into connecting to a fake access point where a captive portal captures their WiFi credentials. I heard of this type of attack, but I finally got to see how it actually works by doing this project.
